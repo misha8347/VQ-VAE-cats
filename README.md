@@ -34,13 +34,13 @@ This jupyter notebook shows how to train generative model using VQ-VAE and Pixel
 
 ### Then it is essenential to sample images properly. For this we use the GatedPixelCNN
 
-- Sampling after 10 epochs:
+- Sampling after 10 epochs:  
 ![meow meow meow](https://github.com/misha8347/VQ-VAE-cats/blob/main/images/pixelcnn_10_epochs.png?raw=True)
 
-- Sampling after 20 epochs: 
+- Sampling after 20 epochs:  
 ![meow meow](https://github.com/misha8347/VQ-VAE-cats/blob/main/images/pixelcnn_20_epochs.png?raw=True)
 
-- Sampling after 30 epochs: 
+- Sampling after 30 epochs:  
 ![meow](https://github.com/misha8347/VQ-VAE-cats/blob/main/images/pixelcnn_30_epochs.png?raw=True)
 
 
